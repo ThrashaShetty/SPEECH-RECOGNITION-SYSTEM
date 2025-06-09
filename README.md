@@ -44,6 +44,12 @@ Language Practice: Learners can test pronunciation and clarity by seeing how wel
 
 In essence, this application offers a user-friendly interface for converting spoken language into written text, with several practical features such as auto-saving, theming, and error handling. The use of threading ensures smooth performance without GUI interruptions. By integrating the speech_recognition library, the program leverages powerful cloud-based transcription capabilities, making it suitable for simple dictation tasks, note-taking, or accessibility tools. Its clear layout and intuitive controls make it accessible even for non-technical users.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5b721e75-0e97-4482-94a7-1cf0b25fa625)
+
+![Image](https://github.com/user-attachments/assets/37b92bd5-30d3-4452-b914-468d31231ad1)
+
 
 
 
